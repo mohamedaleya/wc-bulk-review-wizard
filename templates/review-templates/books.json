@@ -1,0 +1,25 @@
+{
+  "language": "en_US",
+  "category": "books",
+  "openers": [
+    "Couldn’t put it down",
+    "Engaging read",
+    "Decent book",
+    "Slow in parts",
+    "Disappointing ending"
+  ],
+  "features": [
+    "storyline",
+    "characters",
+    "writing style",
+    "pacing",
+    "originality"
+  ],
+  "closers": [
+    "Highly recommended for fans of the genre.",
+    "Worth a read.",
+    "Fine for a weekend.",
+    "Try another author.",
+    "Skip this one."
+  ]
+}

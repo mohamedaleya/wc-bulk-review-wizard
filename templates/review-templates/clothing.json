@@ -1,0 +1,19 @@
+{
+  "language": "en_US",
+  "category": "clothing",
+  "openers": [
+    "Fits perfectly",
+    "Comfortable fabric",
+    "Looks nice",
+    "Sizing is off",
+    "Poor stitching"
+  ],
+  "features": ["fit", "material", "color", "durability", "comfort"],
+  "closers": [
+    "Would buy again.",
+    "Nice addition to my wardrobe.",
+    "It’s okay.",
+    "Not recommended.",
+    "Avoid this one."
+  ]
+}

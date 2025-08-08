@@ -1,0 +1,19 @@
+{
+  "language": "en_US",
+  "category": "default",
+  "openers": [
+    "Absolutely love",
+    "Very pleased with",
+    "Good overall",
+    "A bit disappointing",
+    "Would not recommend"
+  ],
+  "features": ["build quality", "design", "value", "comfort", "performance"],
+  "closers": [
+    "Highly recommended.",
+    "Would buy again.",
+    "Meets expectations.",
+    "Could be better.",
+    "Not worth it."
+  ]
+}

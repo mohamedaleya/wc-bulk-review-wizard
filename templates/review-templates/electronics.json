@@ -1,0 +1,25 @@
+{
+  "language": "en_US",
+  "category": "electronics",
+  "openers": [
+    "Battery lasts all day",
+    "Crisp display",
+    "Solid performance",
+    "Average experience",
+    "Not worth the price"
+  ],
+  "features": [
+    "battery life",
+    "screen quality",
+    "processor speed",
+    "build quality",
+    "connectivity"
+  ],
+  "closers": [
+    "Perfect for daily use.",
+    "Great value for the specs.",
+    "Does the job.",
+    "Would look elsewhere.",
+    "Returning mine."
+  ]
+}
